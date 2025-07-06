@@ -45,7 +45,7 @@ citas-medicas/
 ### 🔹 1. Clonar el repositorio
 
 ```bash
-git clone <url-del-repo>
+git clone https://github.com/MatiMunoz19UNAB/citas-medicas.git
 cd citas-medicas
 ```
 
