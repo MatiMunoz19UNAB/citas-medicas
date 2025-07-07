@@ -58,6 +58,7 @@ venv\Scripts\activate
 pip install -r requirements.txt
 uvicorn main:app --reload
 ```
+(cuando ejecutes la ultima linea, ejecuta el servidor local con "/docs" al final)
 
 ### 🔹 3. Frontend (React)
 
